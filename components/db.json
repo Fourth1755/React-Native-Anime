@@ -1,0 +1,39 @@
+[
+    {
+        "id":1,
+        "name":"Sword art online",
+        "year":2012,
+        "studios":"A-1 Pictures",
+        "seasonal":"Summer",
+        "episodes":25,
+        "image":"https://cdn.myanimelist.net/images/anime/11/39717.jpg"
+    },
+    {
+        "id":2,
+        "name":"Attack on titan",
+        "year":2013,
+        "studios":"MAPPA",
+        "seasonal":"Spring",
+        "episodes":25,
+        "image":"https://cdn.myanimelist.net/images/anime/10/47347.jpg"
+
+    },
+    {
+        "id":3,
+        "name":"Noragami",
+        "year":2014,
+        "studios":"Bones",
+        "seasonal":"Winter",
+        "episodes":12,
+        "image":"https://cdn.myanimelist.net/images/anime/9/77809.jpg"
+    },
+    {
+        "id":4,
+        "name":"Re:Zero",
+        "year":2016,
+        "studios":"White Fox",
+        "seasonal":"Spring",
+        "episodes":25,
+        "image":"https://cdn.myanimelist.net/images/anime/11/79410.jpg"
+    }
+]
