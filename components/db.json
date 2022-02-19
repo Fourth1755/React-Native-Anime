@@ -35,5 +35,50 @@
         "seasonal":"Spring",
         "episodes":25,
         "image":"https://cdn.myanimelist.net/images/anime/11/79410.jpg"
+    },
+    {
+        "id":5,
+        "name":"My Dress-Up Darling",
+        "year":2022,
+        "studios":"CloverWorks",
+        "seasonal":"Winter",
+        "episodes":12,
+        "image":"https://cdn.myanimelist.net/images/anime/1179/119897.jpg"
+    },
+    {
+        "id":6,
+        "name":"Fullmetal Alchemist: Brotherhood",
+        "year":2009,
+        "studios":"Bones",
+        "seasonal":"Spring",
+        "episodes":64,
+        "image":"https://cdn.myanimelist.net/images/anime/1223/96541.jpg"
+    },
+    {
+        "id":7,
+        "name":"Steins;Gate",
+        "year":2011,
+        "studios":"White Fox",
+        "seasonal":"Spring",
+        "episodes":24,
+        "image":"https://cdn.myanimelist.net/images/anime/5/73199.jpg"
+    },
+    {
+        "id":8,
+        "name":"Code Geass: Lelouch of the Rebellion",
+        "year":2006,
+        "studios":"Sunrise",
+        "seasonal":"Fall",
+        "episodes":25,
+        "image":"https://cdn.myanimelist.net/images/anime/5/50331.jpg"
+    },
+    {
+        "id":9,
+        "name":"Jujutsu Kaisen",
+        "year":2016,
+        "studios":"White Fox",
+        "seasonal":"Spring",
+        "episodes":25,
+        "image":"https://cdn.myanimelist.net/images/anime/1171/109222.jpg"
     }
 ]

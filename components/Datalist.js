@@ -1,10 +1,11 @@
-import React from "react"
-import {View,Text,StyleSheet,Button,Image} from 'react-native'
+import React, { useState } from "react"
+import {View,Text,StyleSheet,Button,Image,TouchableOpacity,ScrollView,TextInput} from 'react-native'
 import Button_add from "./Button_add"
 import Data from './db.json'
 const Datalist=()=>{
+    const [searchAnime,setSearchAnime]=useState('');
     return (
-        <View>
+        <ScrollView>
             <Text style={styles.textheader}>Anime</Text>
             {Data.map(anime=>{
                 return <View style={styles.itemcontainer} key={anime.id}>
@@ -25,7 +26,7 @@ const Datalist=()=>{
                     </View>
                 </View>
             })}      
-        </View>
+        </ScrollView>
     )
 }
 const styles=StyleSheet.create({
